@@ -1,4 +1,4 @@
-# Integratable Machine Learning for Obesity Risk Prediction using EHR Data
+# An Interoperable ML Pipeline for Pediatric Obesity Risk Prediction using Commonly Available EHR Data
 
 ## Step 0
 Click on the link Below:
