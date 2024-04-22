@@ -4,7 +4,7 @@
 Click on the link Below:
 
 
-[FHIR Obesity Demo Website Address](https://launch.smarthealthit.org/?launch_url=https%3A%2F%2F34.27.255.204%2Flaunch.html "FHIR Obesity Demo Website Address")
+[FHIR Obesity Demo Website Address](https://launch.smarthealthit.org/?launch_url=https%3A%2F%2F35.239.239.125%2Flaunch.html "FHIR Obesity Demo Website Address")
 
 ## Step 1
 ![Step1](https://i.ibb.co/kGMgLx0/step1.png)
