@@ -5,6 +5,6 @@ Reliable prediction of pediatric obesity can offer a valuable resource to provid
 
 ## Please choose a patient to be redirected to the User Interface.
 
-[Sample Patient 1](http://example.com/patient1)  
-[Sample Patient 2](http://example.com/patient2)  
-[Sample Patient 3](http://example.com/patient3)
+[Sample Patient 1](http://44.211.73.123/index.html?patient=1)  
+[Sample Patient 2](http://44.211.73.123/index.html?patient=2)  
+[Sample Patient 3](http://44.211.73.123/index.html?patient=3)
