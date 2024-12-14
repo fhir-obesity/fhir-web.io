@@ -5,4 +5,4 @@ Reliable prediction of pediatric obesity can offer a valuable resource to provid
 
 ## Please click the link below to be redirected to the User Interface.
 
-[Run the Application with a Sample Patient](http://44.211.73.123/index.html?patient=1) 
+[Run the Application with a Sample Patient](https://launch.smarthealthit.org/?launch_url=https%3A%2F%2F34.229.130.226%2Flaunch.html&launch=WzAsIiIsIiIsIkFVVE8iLDAsMCwwLCIiLCIiLCIiLCIiLCIiLCIiLCIiLDAsMSwiIl0)
